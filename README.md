@@ -4,3 +4,6 @@
 
 ### Git e GitHub para Iniciantes
 https://www.udemy.com/course/git-e-github-para-iniciantes/
+
+### The Odin Project
+https://www.theodinproject.com/paths
