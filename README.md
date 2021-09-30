@@ -1,8 +1,8 @@
-## Cursos Gratuitos de Programação
+# Cursos Gratuitos de Programação
 
 <img src='https://media2.giphy.com/media/cklPOHnHepdwBLRnQp/giphy.gif?cid=790b7611f82c0e6af8fc4c3b139774c0d6bde4ddf80daa91&rid=giphy.gif&ct=g' alt='The Carlton Dance' width="200">
 
-### Cursos completos de Programação
+## Cursos completos de Programação
 
 #### Digital Innation One
 https://digitalinnovation.one/
@@ -26,13 +26,13 @@ https://pt.khanacademy.org/computing/computer-programming
 https://www.codeavengers.com/
 
 
-### Programa de Bolsas de Estudos
+## Programa de Bolsas de Estudos
 
 #### Reprograma - para mulheres
 https://reprograma.com.br/
 
 
-### Cursos livres
+## Cursos livres
 
 #### DevMedia
 https://www.devmedia.com.br/cursos/gratuitos
@@ -47,7 +47,7 @@ https://www.learncafe.com/cursos-gratis/informatica-e-internet/linguagens-de-pro
 https://desafiodocodigo.com.br/
 
 
-### Sites com Desafios para Treinar Programação
+## Sites com Desafios para Treinar Programação
 
 #### Grasshopper
 https://grasshopper.app/pt_br/
@@ -68,7 +68,7 @@ https://www.codewars.com/
 www.codingame.com/
 
 
-### Aprenda na Prática
+## Aprenda na Prática
 
 #### The Odin Project
 https://www.theodinproject.com/paths
