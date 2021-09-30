@@ -2,75 +2,75 @@
 
 <img src='https://media2.giphy.com/media/cklPOHnHepdwBLRnQp/giphy.gif?cid=790b7611f82c0e6af8fc4c3b139774c0d6bde4ddf80daa91&rid=giphy.gif&ct=g' alt='The Carlton Dance' width="200">
 
-## Cursos completos de Programação
+### Cursos completos de Programação
 
-### Digital Innation One
+#### Digital Innation One
 https://digitalinnovation.one/
 
-### Curso em Vídeo
+#### Curso em Vídeo
 https://www.cursoemvideo.com/
 
-### RocketSeat
+#### RocketSeat
 https://www.rocketseat.com.br/discover
 
-### SENAC
+#### SENAC
 https://www.sp.senac.br/cursos-livres/curso-de-desenvolvedor-full-stack
 
-### Free Code Camp - em português
+#### Free Code Camp - em português
 https://www.freecodecamp.org/portuguese/
 
-### Khan Academy
+#### Khan Academy
 https://pt.khanacademy.org/computing/computer-programming
 
-### Code Avengers
+#### Code Avengers
 https://www.codeavengers.com/
 
 
-## Programa de Bolsas de Estudos
+### Programa de Bolsas de Estudos
 
-### Reprograma - para mulheres
+#### Reprograma - para mulheres
 https://reprograma.com.br/
 
 
-## Cursos livres
+### Cursos livres
 
-### DevMedia
+#### DevMedia
 https://www.devmedia.com.br/cursos/gratuitos
 
-### School of Net
+#### School of Net
 https://www.schoolofnet.com/cursos/gratuitos
 
-### Learn Cafe
+#### Learn Cafe
 https://www.learncafe.com/cursos-gratis/informatica-e-internet/linguagens-de-programacao
 
-### Desafio do Código
+#### Desafio do Código
 https://desafiodocodigo.com.br/
 
 
-## Sites com Desafios para Treinar Programação
+### Sites com Desafios para Treinar Programação
 
-### Grasshopper
+#### Grasshopper
 https://grasshopper.app/pt_br/
 
-### URI Online Judge
+#### URI Online Judge
 https://www.urionlinejudge.com.br/judge/pt/login
 
-### HackerRank
+#### HackerRank
 https://www.hackerrank.com/
 
-### LeetCode
+#### LeetCode
 https://leetcode.com/pt/
 
-### Em inglês
+#### Em inglês
 https://exercism.org/
 https://coderbyte.com/challenges/
 https://www.codewars.com/
 www.codingame.com/
 
 
-## Aprenda na Prática
+### Aprenda na Prática
 
-### The Odin Project
+#### The Odin Project
 https://www.theodinproject.com/paths
 
 
