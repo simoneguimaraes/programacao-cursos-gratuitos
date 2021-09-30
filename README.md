@@ -61,6 +61,12 @@ https://www.hackerrank.com/
 ### LeetCode
 https://leetcode.com/pt/
 
+### Em inglês
+https://exercism.org/
+https://coderbyte.com/challenges/
+https://www.codewars.com/
+www.codingame.com/
+
 
 ## Aprenda na Prática
 
