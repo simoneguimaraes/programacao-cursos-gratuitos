@@ -67,6 +67,16 @@ https://leetcode.com/pt/
 - https://www.codewars.com/
 - www.codingame.com/
 
+## CSS
+
+### Flexbox Froggy (para aprender flexbox)
+https://flexboxfroggy.com
+
+### CSS Diner (para aprender sobre como usar seletores em CSS)
+https://flukeout.github.io/
+
+### Flexbox Defense (para aprender flexbox)
+http://www.flexboxdefense.com/
 
 ## Aprenda na Prática
 
