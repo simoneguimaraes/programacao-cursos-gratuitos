@@ -43,6 +43,15 @@ https://www.schoolofnet.com/cursos/gratuitos
 #### Learn Cafe
 https://www.learncafe.com/cursos-gratis/informatica-e-internet/linguagens-de-programacao
 
+
+## Aprenda fazendo na Prática
+
+#### Build 15 Javascript Projects
+https://youtu.be/3PHXvlpOkf4
+
+#### The Odin Project
+https://www.theodinproject.com/paths
+
 #### Desafio do Código
 https://desafiodocodigo.com.br/
 
@@ -81,11 +90,6 @@ https://flukeout.github.io/
 
 ### Flexbox Defense (para aprender flexbox)
 http://www.flexboxdefense.com/
-
-## Aprenda na Prática
-
-#### The Odin Project
-https://www.theodinproject.com/paths
 
 
 ## Git e GitHub
