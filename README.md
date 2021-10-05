@@ -25,6 +25,9 @@ https://pt.khanacademy.org/computing/computer-programming
 #### Code Avengers
 https://www.codeavengers.com/
 
+#### Codecademy
+https://https://www.codecademy.com/learn/introduction-to-javascript
+
 
 ## Programa de Bolsas de Estudos
 
@@ -48,6 +51,9 @@ https://www.learncafe.com/cursos-gratis/informatica-e-internet/linguagens-de-pro
 
 #### Build 15 Javascript Projects
 https://youtu.be/3PHXvlpOkf4
+
+#### Learn Javascript by Building 7 Games
+https://youtu.be/lhNdUVh3qCc
 
 #### The Odin Project
 https://www.theodinproject.com/paths
