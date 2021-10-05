@@ -66,6 +66,7 @@ https://leetcode.com/pt/
 
 #### Em inglês
 - https://exercism.org/
+- https://javascript30.com
 - https://coderbyte.com/challenges/
 - https://www.codewars.com/
 - www.codingame.com/
