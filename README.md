@@ -52,6 +52,9 @@ https://desafiodocodigo.com.br/
 #### Grasshopper
 https://grasshopper.app/pt_br/
 
+#### Dev Challenge (desafios de Front, Back e Mobile) 
+https://www.devchallenge.com.br/
+
 #### URI Online Judge
 https://www.urionlinejudge.com.br/judge/pt/login
 
