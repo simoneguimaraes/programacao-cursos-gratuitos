@@ -35,6 +35,12 @@ https://https://www.codecademy.com/learn/introduction-to-javascript
 https://reprograma.com.br/
 
 
+## Livros
+
+#### You Don't Know JS
+https://github.com/cezaraugusto/You-Dont-Know-JS
+
+
 ## Cursos livres
 
 #### DevMedia
@@ -102,6 +108,15 @@ http://www.flexboxdefense.com/
 
 #### Git e GitHub para Iniciantes
 https://www.udemy.com/course/git-e-github-para-iniciantes/
+
+## Canais de Youtube
+#### The New Boston
+https://www.youtube.com/watch?v=yQaAGmHNn9s&list=PLXVO02Mvh8FgfH_uX9SnEMUK5xQADKOCp
+
+## Outros
+https://www.digitalocean.com/community/tutorial_series/how-to-code-in-javascript
+https://javascript.info/
+
 
 #
 Made with 💜 by Simone Guimarães
